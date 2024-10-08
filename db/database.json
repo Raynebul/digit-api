@@ -1,0 +1,62 @@
+[
+  {
+    "login": "qwerty",
+    "password": "12345",
+    "surname": "Иванов",
+    "name": "Иван",
+    "patronymic": "Иванович",
+    "birthDate": "01.01.2000",
+    "telephone": "+79001234567",
+    "key": "",
+    "job": {
+      "name": "Компания 1",
+      "telephone": "+79000000000",
+      "address": "г. Москва, ул. Ленина, д. 1"
+    },
+    "document": {
+      "series": 1111,
+      "number": 111111,
+      "issueDate": "01.04.2020"
+    }
+  },
+  {
+    "login": "petr",
+    "password": "qwerty",
+    "surname": "Кузнецов",
+    "name": "Пётр",
+    "patronymic": "Дмитриевич",
+    "birthDate": "07.11.2001",
+    "telephone": "+79001234588",
+    "key": "",
+    "job": {
+      "name": "Компания 2",
+      "telephone": "+79000000011",
+      "address": "г. Москва, ул. Ленина, д. 2"
+    },
+    "document": {
+      "series": 1112,
+      "number": 111112,
+      "issueDate": "15.01.2022"
+    }
+  },
+  {
+    "login": "sasha11",
+    "password": "123456789",
+    "surname": "Веселова",
+    "name": "Александр",
+    "patronymic": "Сергеевна",
+    "birthDate": "02.02.2002",
+    "telephone": "+79166788511",
+    "key": "",
+    "job": {
+      "name": "Компания 1",
+      "telephone": "+79000000000",
+      "address": "г. Москва, ул. Ленина, д. 1"
+    },
+    "document": {
+      "series": 1113,
+      "number": 111114,
+      "issueDate": "04.05.2022"
+    }
+  }
+]
